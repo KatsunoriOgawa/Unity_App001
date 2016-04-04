@@ -1,0 +1,14 @@
+..■下記はAPP-001のアプリ情報です。（Enhance IQ）
+▼Publishing Setting
+Keystore Password/confirm Password
+PASS:qk5SG.PVKsxh
+
+Alias:kawada001
+pass:qk5SG.PVKsxh
+year:50
+First and Last Name:Atsushi
+organizational Unit:personal 
+organization:1000 Eureka
+city or Locality:Akihabara
+State or Province:Tokyo
+Country Code:81
